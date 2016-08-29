@@ -1,3 +1,7 @@
+# Lab for Joey and Jonathan ##
+##Pictures##
+
+
 ---
 title: Merge Sort Lab
 type: lab
