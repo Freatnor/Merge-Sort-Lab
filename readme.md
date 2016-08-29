@@ -1,6 +1,11 @@
 # Lab for Joey and Jonathan ##
 ##Pictures##
-
+![](https://github.com/Freatnor/Merge-Sort-Lab/blob/patch-1/Photos/IMG_20160829_143244389.jpg)
+![](https://github.com/Freatnor/Merge-Sort-Lab/blob/patch-1/Photos/IMG_20160829_143758077.jpg)
+![](https://github.com/Freatnor/Merge-Sort-Lab/blob/patch-1/Photos/IMG_20160829_143927.jpg)
+![](https://github.com/Freatnor/Merge-Sort-Lab/blob/patch-1/Photos/IMG_20160829_144527.jpg)
+![](https://github.com/Freatnor/Merge-Sort-Lab/blob/patch-1/Photos/IMG_20160829_144745907.jpg)
+![](https://github.com/Freatnor/Merge-Sort-Lab/blob/patch-1/Photos/IMG_20160829_145535.jpg)
 
 ---
 title: Merge Sort Lab
